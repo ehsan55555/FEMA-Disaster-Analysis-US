@@ -1,0 +1,24 @@
+Music:
+- hotest artist/song of the summer... who has the most streams this summer?
+- is there a correlation between genres?
+- hottest song off the summer? top of the billboards for longest streak?
+
+Crime:
+- hot beds for criminal activity: city vs rural? Season comparison... summer = hot = more crime
+- is there an age range with noticeable trends? 
+- 
+
+Drug use rise:
+- when did the trend start escalating? as maryjane got more legalized?
+- most popular/used drugs... soft vs hard drug usage by baby boomers
+- analysis on drug usage in legalized states vs non
+
+Pokemon:
+- how many new pokemon created per year/game?
+- predict how many pokemon will be in the pokedex by 2030
+- who is the most superior pokemon (builds) and why? Have the data support answer
+
+Anti-money launcery/risk analysis:
+-
+-
+-
