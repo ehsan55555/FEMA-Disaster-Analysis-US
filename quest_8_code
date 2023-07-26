@@ -1,0 +1,20 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Read the data from the CSV file
+data = pd.read_csv('us_disaster_declarations.csv')
+
+key_attributes = data[['declaration_date', 'incident_type', 'state', 'declaration_title']]
+
+print(key_attributes.head())
+
+disaster_counts = key_attributes['incident_type'].value_counts()
+plt.figure(figsize=(12, 6))
+plt.bar(disaster_counts.index, disaster_counts.values, color='blue')
+plt.xlabel('Type of Natural Disaster')
+plt.ylabel('Count')
+plt.title('Natural Disaster')
+plt.xticks(rotation=45, ha='right')
+plt.xlim(12, 0)
+plt.tight_layout()
+plt.show()
